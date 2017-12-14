@@ -1,0 +1,25 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "A crowd-sourced subcription tool",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artemas-Muzanenhamo/rocket-shop.git"
+  },
+  "author": "Artemas Muzanenhamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artemas-Muzanenhamo/rocket-shop/issues"
+  },
+  "homepage": "https://github.com/Artemas-Muzanenhamo/rocket-shop#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}

@@ -1,5 +1,5 @@
 /.idea/
 /node_modules/
 /package-lock.json
-/lib/subscriptions/node_modules/
+/lib/subscriptions/node_modules/*
 /lib/subscriptions/package-lock.json
